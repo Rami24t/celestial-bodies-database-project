@@ -1,1 +1,1 @@
-My solution to the 'build a celestial bodies postgresql database project' challenge (from freeCodeCamp). 
+My solution to the 'Build a Celestial Bodies Database Postgresql Project' challenge (from freeCodeCamp). 
